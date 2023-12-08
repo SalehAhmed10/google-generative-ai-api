@@ -1,5 +1,10 @@
 # Google PaLM API Text Generation (Express.js)
 
+## Author
+
+- **Saleh Ahmed**
+  - GitHub: [SalehAhmed10](https://github.com/SalehAhmed10/)
+
 ## Overview
 
 This project provides a straightforward and user-friendly API for text generation using Google's PaLM (Pattern-Language Model) API. built with Express.js, a robust and fast web application framework for Node.js. PaLM is a powerful natural language processing model developed by Google, and this Express.js API allows you to leverage its capabilities for generating creative and contextually relevant text.
